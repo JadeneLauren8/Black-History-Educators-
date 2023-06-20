@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Black History Educators</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
