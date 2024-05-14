@@ -32,27 +32,7 @@
   </body>
 </html>
 
-        
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
+    
 <div id="app">
 <header>
 <h1>Black History</h1>
@@ -97,7 +77,7 @@
 </section>
 </main>
 <footer>
-<p>Copyright &copy; 2023, Black History Interactive Website.</p>
+
 </footer>
 </div>
 
