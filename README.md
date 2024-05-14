@@ -1,4 +1,53 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Education History</title>
+    <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <nav class="navbar"> 
+    <div class="navbar__ container"> 
+    <a href="/" id="navbar__logo">Black Education History</a> 
+    <div class="navbar__toggle" id="mobile-menu">
+      <span class="bar"></span> < span class= "bar"></span>
+      <span class="bar"></span>    
+    </div>
+    <ul class="navbar__ menu">
+      <li class="navbar__item"> 
+    <a href="/" class= "navbar__links">Home</a>
+      </li>   
+ <li class="navbar__item"> 
+    <a href="/about.html" class= "navbar__links">About</a>        
+     </li>
+      <li class="navbar__item"> 
+    <a href="/" class= "navbar__links">Education History</a> 
+      </li>
+        <li class="navbar__btn"> 
+    <a href="/" class= "button">Black achievements</a>
+     </ul>
+     </div>
+    </nav>
+  </body>
+</html>
+
+        
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
@@ -17,14 +66,14 @@
 <section>
 <h2>Black Figures</h2>
 <ul>
-<li>Harriet Tubman</li>
+<li>Rosa Parks</li>
 <li>Martin Luther King Jr.</li>
-<li>Marcus Garvey</li>
-<li>Rita Pierson</li>
-<li>Mary McLeod</li>
-<li>Booker T. Washington</li>
-<li>W.E.B. Du Bois</li>
-<li>Septima Clark</li>
+<li>Maya Angelou</li>
+<li>Nelson Mandela</li>
+<li>Florence Joyner</li>
+<li>Marcus Rashford</li>
+<li>Katherine Johnson</li>
+
 </ul>
 </section>
 <section>
@@ -51,3 +100,45 @@
 <p>Copyright &copy; 2023, Black History Interactive Website.</p>
 </footer>
 </div>
+
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
