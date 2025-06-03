@@ -18,7 +18,6 @@
   <h2>Family Fun Activities</h2>
   <ul>
     <li>🧩 <strong>Quiz Time!</strong> – <button onclick="showFact()">Click to reveal a fun Black History fact!</button></li>
-    <li id="factBox" style="margin-top: 10px; font-style: italic; color: #4e342e;"></li>
     <li>🎨 <strong>Art Corner</strong> – Draw your favorite hero or make a family Black History poster</li>
     <li>📚 <strong>Story Hour</strong> – Read a bedtime story featuring real Black heroes</li>
     <li>👪 <strong>Talk Together</strong> – Share what fairness and bravery mean in your family</li>
