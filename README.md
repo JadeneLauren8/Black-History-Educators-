@@ -4,21 +4,6 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<script>
-  const facts = [
-    "Garrett Morgan invented the traffic light in 1923.",
-    "Harriet Tubman helped around 70 enslaved people escape using the Underground Railroad.",
-    "Dr. Mae Jemison was the first Black woman to travel in space.",
-    "Barack Obama became the first Black U.S. President in 2008.",
-    "Mary McLeod Bethune opened a school with only $1.50 and 5 students.",
-    "George Washington Carver created over 300 products from peanuts!"
-  ];
-
-  function showFact() {
-    const randomIndex = Math.floor(Math.random() * facts.length);
-    document.getElementById("factBox").textContent = facts[randomIndex];
-  }
-</script>
 <div id="app">
 <header>
 <h1>Black History</h1>
