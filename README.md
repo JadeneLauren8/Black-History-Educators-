@@ -5,10 +5,7 @@
 </head>
 <body>
 <div id="app"><!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
+<html lang=
         
     
 </body>
