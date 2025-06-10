@@ -4,7 +4,21 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div id="app">
+<div id="app"><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Black History</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link CSS -->
+</head>
+<body>
+    <div id="app">
+        <!-- Content goes here -->
+    </div>
+
+    <script src="script.js"></script> <!-- Link JS -->
+</body>
+</html>
 <header>
 <h1>Black History</h1>
 </header>
