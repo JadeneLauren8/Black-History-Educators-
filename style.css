@@ -54,8 +54,8 @@ ul li {
   position: relative;
 }
 
-ul li::before {
-  content: 'â€¢';
+ul li::before 
+{
   color: #222;
   position: absolute;
   left: 0;
