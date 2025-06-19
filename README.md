@@ -36,7 +36,7 @@
 <li>Mary McLeod</li>
 <li>Booker T. Washington</li>
 <li>W.E.B. Du Bois</li>
-<li>S    eptima Clark</li>
+<li>Septima Clark</li>
 </ul>
 </section>
 <section>
